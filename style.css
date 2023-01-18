@@ -1,0 +1,16 @@
+.navbar-light .navbar-nav .navbar-link{
+    color: black;
+    font-size: 22px;
+    
+
+}
+.navbar-light .navbar-brand{
+    color: black;
+    font-size: 30px;
+}
+header{
+    height: 50vh;
+    min-height: 400px;
+    background-size: cover;
+    background-image: url("./images/header.jpg");
+}
